@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #0B6AB4;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+    /* margin-left: 100px; */
+    margin-top: 200px;
+
+}
+
+.subbutton{
+    color: white;
+    font-weight:bold;
+    background-color:#055490;
+    height: 35px;
+    width: 208px;
+    border-radius: 5px;
+}
+input{
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+    padding-top: 5px;
+}
+
+
+}
